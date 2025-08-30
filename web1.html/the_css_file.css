@@ -1,0 +1,19 @@
+/* How to Use CSS FIles
+
+tag_name{
+    properties
+}
+
+SPECIFY FONT USED AND TEXT SIZE FOR h1 header */
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-size: 24px;
+    
+    font-style:bold;
+    font-variant: normal;
+    font-weight: 700;
+    background-color: aquamarine;
+    
+}
